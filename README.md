@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Valeduff
+- 👋 Hi, I’m @valeria-daffarra
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML CSS JAVASCRIPT
 - 📫 How to reach me vdaffarra@gmail.com
