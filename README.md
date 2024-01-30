@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @valeria-daffarra
-- 👀 I’m interested in Full Stack Web Development
-- 🌱 HTML CSS JAVASCRIPT
+- 👀 I’m interested in Software Engeneering
+- 🌱 JAVA HTML CSS JAVASCRIPT
 - 📫 How to reach me vdaffarra@gmail.com
 
 <!---
